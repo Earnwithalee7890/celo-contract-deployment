@@ -1,11 +1,11 @@
 const hre = require("hardhat");
 
 async function main() {
-    console.log("Deploying 100 contracts to Celo Mainnet...");
+    console.log("Deploying 1 contract to Celo Mainnet...");
 
     const Contract = await hre.ethers.getContractFactory("MyContract");
 
-    for (let i = 0; i < 100; i++) {
+    for (let i = 0; i < 1; i++) {
         const contract = await Contract.deploy(`Hello Celo ${i + 1}!`);
         await contract.waitForDeployment();
         console.log(`Contract ${i + 1} deployed at:`, await contract.getAddress());
