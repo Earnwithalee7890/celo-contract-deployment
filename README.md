@@ -106,3 +106,4 @@ Feel free to submit issues and enhancement requests!
 <!-- Update: feat: add task recommendation logic -->
 <!-- Update: feat: implement worker level-up system -->
 <!-- Update: fix: resolve potential overflow in rewards -->
+<!-- Update: refactor: simplify task lookup logic -->
