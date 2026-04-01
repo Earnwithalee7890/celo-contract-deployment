@@ -104,3 +104,4 @@ Feel free to submit issues and enhancement requests!
 <!-- Update: feat: implement emergency stop mechanism -->
 <!-- Update: refactor: improve internal variable naming -->
 <!-- Update: feat: add task recommendation logic -->
+<!-- Update: feat: implement worker level-up system -->
