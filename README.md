@@ -94,3 +94,4 @@ Feel free to submit issues and enhancement requests!
 <!-- Update: feat: implement batch reward distribution -->
 <!-- Update: feat: add task filtering by budget -->
 <!-- Update: feat: implement task search indexing -->
+<!-- Update: docs: update README with API examples -->
