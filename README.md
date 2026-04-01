@@ -115,3 +115,4 @@ Feel free to submit issues and enhancement requests!
 <!-- Update: feat: add task budget verification -->
 <!-- Update: feat: implement task participant limits -->
 <!-- Update: fix: ensure correct task creator permissions -->
+<!-- Update: refactor: use calldata for gas optimization -->
