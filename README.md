@@ -78,3 +78,4 @@ Feel free to submit issues and enhancement requests!
 <!-- Update: feat: implement worker registration module -->
 <!-- Update: feat: add reward escrow functionality -->
 <!-- Update: feat: implement task submission lifecycle -->
+<!-- Update: feat: add task approval system -->
