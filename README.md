@@ -100,3 +100,4 @@ Feel free to submit issues and enhancement requests!
 <!-- Update: feat: implement task difficulty levels -->
 <!-- Update: fix: handle division by zero in reward logic -->
 <!-- Update: feat: add task dispute resolution protocol -->
+<!-- Update: test: add edge-case testing for deadlines -->
