@@ -81,3 +81,4 @@ Feel free to submit issues and enhancement requests!
 <!-- Update: feat: add task approval system -->
 <!-- Update: feat: implement task cancellation with refund -->
 <!-- Update: fix: resolve race condition in task rewards -->
+<!-- Update: feat: add task status events for front-end tracking -->
