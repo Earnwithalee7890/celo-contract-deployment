@@ -79,3 +79,4 @@ Feel free to submit issues and enhancement requests!
 <!-- Update: feat: add reward escrow functionality -->
 <!-- Update: feat: implement task submission lifecycle -->
 <!-- Update: feat: add task approval system -->
+<!-- Update: feat: implement task cancellation with refund -->
