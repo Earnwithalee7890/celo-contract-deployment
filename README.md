@@ -74,3 +74,4 @@ Feel free to submit issues and enhancement requests!
 <!-- Update: chore: update hardhat configuration for Celo Mainnet -->
 <!-- Update: docs: add project overview and deployment guide -->
 <!-- Update: feat: implement task creation logic -->
+<!-- Update: feat: add task mapping and identification -->
