@@ -89,3 +89,4 @@ Feel free to submit issues and enhancement requests!
 <!-- Update: feat: add platform fee collection -->
 <!-- Update: feat: implement worker reputation system -->
 <!-- Update: fix: ensure unique task IDs -->
+<!-- Update: refactor: transition to Solidity 0.8.24 -->
