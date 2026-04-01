@@ -87,3 +87,4 @@ Feel free to submit issues and enhancement requests!
 <!-- Update: test: test task submission and status updates -->
 <!-- Update: feat: implement task deadline enforcement -->
 <!-- Update: feat: add platform fee collection -->
+<!-- Update: feat: implement worker reputation system -->
