@@ -72,3 +72,4 @@ Feel free to submit issues and enhancement requests!
 <!-- Update: feat: initialize core contract hierarchy -->
 <!-- Update: feat: initialize core contract hierarchy -->
 <!-- Update: chore: update hardhat configuration for Celo Mainnet -->
+<!-- Update: docs: add project overview and deployment guide -->
