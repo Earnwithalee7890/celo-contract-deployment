@@ -117,3 +117,4 @@ Feel free to submit issues and enhancement requests!
 <!-- Update: fix: ensure correct task creator permissions -->
 <!-- Update: refactor: use calldata for gas optimization -->
 <!-- Update: docs: finalize technical whitepaper -->
+<!-- Update: feat: add task history tracking -->
