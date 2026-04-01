@@ -75,3 +75,4 @@ Feel free to submit issues and enhancement requests!
 <!-- Update: docs: add project overview and deployment guide -->
 <!-- Update: feat: implement task creation logic -->
 <!-- Update: feat: add task mapping and identification -->
+<!-- Update: feat: implement worker registration module -->
