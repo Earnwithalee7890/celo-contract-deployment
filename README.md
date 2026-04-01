@@ -93,3 +93,4 @@ Feel free to submit issues and enhancement requests!
 <!-- Update: feat: add task tagging and categorization -->
 <!-- Update: feat: implement batch reward distribution -->
 <!-- Update: feat: add task filtering by budget -->
+<!-- Update: feat: implement task search indexing -->
