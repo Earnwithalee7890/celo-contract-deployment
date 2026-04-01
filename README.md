@@ -83,3 +83,4 @@ Feel free to submit issues and enhancement requests!
 <!-- Update: fix: resolve race condition in task rewards -->
 <!-- Update: feat: add task status events for front-end tracking -->
 <!-- Update: refactor: optimize contract storage for gas efficiency -->
+<!-- Update: test: add unit tests for task creation -->
