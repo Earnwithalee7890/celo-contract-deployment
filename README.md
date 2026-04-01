@@ -116,3 +116,4 @@ Feel free to submit issues and enhancement requests!
 <!-- Update: feat: implement task participant limits -->
 <!-- Update: fix: ensure correct task creator permissions -->
 <!-- Update: refactor: use calldata for gas optimization -->
+<!-- Update: docs: finalize technical whitepaper -->
