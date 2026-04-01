@@ -110,3 +110,4 @@ Feel free to submit issues and enhancement requests!
 <!-- Update: feat: add multi-sig requirement for high-value tasks -->
 <!-- Update: test: add reentrancy protection tests -->
 <!-- Update: chore: update dependencies to latest version -->
+<!-- Update: docs: add setup instructions for Celo Alfajores -->
