@@ -98,3 +98,4 @@ Feel free to submit issues and enhancement requests!
 <!-- Update: chore: add gas reporter to development cycle -->
 <!-- Update: feat: add support for ERC20 rewards -->
 <!-- Update: feat: implement task difficulty levels -->
+<!-- Update: fix: handle division by zero in reward logic -->
