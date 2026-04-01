@@ -92,3 +92,4 @@ Feel free to submit issues and enhancement requests!
 <!-- Update: refactor: transition to Solidity 0.8.24 -->
 <!-- Update: feat: add task tagging and categorization -->
 <!-- Update: feat: implement batch reward distribution -->
+<!-- Update: feat: add task filtering by budget -->
