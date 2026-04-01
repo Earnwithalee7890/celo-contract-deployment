@@ -112,3 +112,4 @@ Feel free to submit issues and enhancement requests!
 <!-- Update: chore: update dependencies to latest version -->
 <!-- Update: docs: add setup instructions for Celo Alfajores -->
 <!-- Update: feat: implement task audit logging -->
+<!-- Update: feat: add task budget verification -->
