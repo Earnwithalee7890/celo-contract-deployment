@@ -90,3 +90,4 @@ Feel free to submit issues and enhancement requests!
 <!-- Update: feat: implement worker reputation system -->
 <!-- Update: fix: ensure unique task IDs -->
 <!-- Update: refactor: transition to Solidity 0.8.24 -->
+<!-- Update: feat: add task tagging and categorization -->
