@@ -118,3 +118,4 @@ Feel free to submit issues and enhancement requests!
 <!-- Update: refactor: use calldata for gas optimization -->
 <!-- Update: docs: finalize technical whitepaper -->
 <!-- Update: feat: add task history tracking -->
+<!-- Update: chore: prepare production v1.0.0 -->
