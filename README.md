@@ -97,3 +97,4 @@ Feel free to submit issues and enhancement requests!
 <!-- Update: docs: update README with API examples -->
 <!-- Update: chore: add gas reporter to development cycle -->
 <!-- Update: feat: add support for ERC20 rewards -->
+<!-- Update: feat: implement task difficulty levels -->
