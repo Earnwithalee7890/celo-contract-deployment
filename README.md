@@ -86,3 +86,4 @@ Feel free to submit issues and enhancement requests!
 <!-- Update: test: add unit tests for task creation -->
 <!-- Update: test: test task submission and status updates -->
 <!-- Update: feat: implement task deadline enforcement -->
+<!-- Update: feat: add platform fee collection -->
