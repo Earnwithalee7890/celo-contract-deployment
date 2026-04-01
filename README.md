@@ -76,3 +76,4 @@ Feel free to submit issues and enhancement requests!
 <!-- Update: feat: implement task creation logic -->
 <!-- Update: feat: add task mapping and identification -->
 <!-- Update: feat: implement worker registration module -->
+<!-- Update: feat: add reward escrow functionality -->
