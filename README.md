@@ -88,3 +88,4 @@ Feel free to submit issues and enhancement requests!
 <!-- Update: feat: implement task deadline enforcement -->
 <!-- Update: feat: add platform fee collection -->
 <!-- Update: feat: implement worker reputation system -->
+<!-- Update: fix: ensure unique task IDs -->
