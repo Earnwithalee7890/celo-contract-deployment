@@ -113,3 +113,4 @@ Feel free to submit issues and enhancement requests!
 <!-- Update: docs: add setup instructions for Celo Alfajores -->
 <!-- Update: feat: implement task audit logging -->
 <!-- Update: feat: add task budget verification -->
+<!-- Update: feat: implement task participant limits -->
